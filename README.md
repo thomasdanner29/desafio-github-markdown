@@ -8,7 +8,7 @@
 ✋ Hi, me chamo Thomas Danner!<br>
 🙏 Sou Cristão <br> 
 🔓 Estou começando a estudar programação <br>
-
+Logo Logo serei o melhor
 ----------------------
 ### Minhas Habilidades
 <p align="center">
