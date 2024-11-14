@@ -27,6 +27,6 @@
 
 
 ------
-![Thomas Danner GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas29danner&show_icons=true&theme=dark)
+![Thomas Danner GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasdanner29&show_icons=true&theme=dark)
 
-![Thomas Danner GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas29danner&layout=compact&langs_count=7&theme-dracula)
+![Thomas Danner GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdanner29&layout=compact&langs_count=7&theme-dracula)
